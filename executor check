@@ -1,0 +1,10 @@
+{
+    ["Xeno"] = false,
+    ["KRNL"] = true,
+    ["Seliware"] = true,
+    ["Delta"] = true,
+    ["Wave"] = true,
+    ["Codex"] = true,
+    ["Potassium"] = true,
+    ["Unknown"] = true
+}
